@@ -21,8 +21,8 @@ Before running this project, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/manas-senpai/student-attendance-system.git
+cd student-attendance-system
 ```
 
 ### 2. Database Setup
